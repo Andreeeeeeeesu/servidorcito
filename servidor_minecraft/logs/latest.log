@@ -1178,3 +1178,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [21Feb2025 20:30:52.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Andrexo_16's game mode to Survival Mode
 [21Feb2025 20:36:54.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 lost connection: Disconnected
 [21Feb2025 20:36:54.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 left the game
+[21Feb2025 20:57:02.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andrexo_16[/127.226.76.9:43795] logged in with entity id 246938 at (-420.4491154170051, 64.0, 63.97733733588547)
+[21Feb2025 20:57:02.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 joined the game
+[21Feb2025 20:57:02.735] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Andrexo_16'
+[21Feb2025 20:57:02.735] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Andrexo_16'
+[21Feb2025 20:57:02.736] [Server thread/INFO] [Jade/]: Syncing config to Andrexo_16 (3bef83f2-f8e1-3838-a154-8c90f8cf9c10)
