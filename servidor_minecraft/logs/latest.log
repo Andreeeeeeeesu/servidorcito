@@ -1193,3 +1193,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [21Feb2025 21:41:48.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-496, y=13, z=-36} BlockPos{x=-505, y=15, z=-32}
 [21Feb2025 21:42:26.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-547, y=9, z=-45} BlockPos{x=-547, y=8, z=-44}
 [21Feb2025 22:05:42.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 was processed by Crushing Wheels
+[21Feb2025 22:10:38.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 lost connection: Disconnected
+[21Feb2025 22:10:38.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 left the game
+[21Feb2025 22:12:10.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Feb2025 22:12:10.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Feb2025 22:12:10.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Feb2025 22:12:10.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Feb2025 22:12:10.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:overworld
+[21Feb2025 22:12:10.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/deeperdarker:otherside
+[21Feb2025 22:12:10.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/aether:the_aether
+[21Feb2025 22:12:10.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:the_nether
+[21Feb2025 22:12:10.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/twilightforest:twilight_forest
+[21Feb2025 22:12:10.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:the_end
+[21Feb2025 22:12:10.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Feb2025 22:12:10.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[21Feb2025 22:12:10.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[21Feb2025 22:12:10.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Feb2025 22:12:10.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[21Feb2025 22:12:10.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Feb2025 22:12:10.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Feb2025 22:12:10.979] [Server thread/INFO] [Framework/]: Unloading server configs...
+[21Feb2025 22:12:10.980] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[21Feb2025 22:12:10.982] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[21Feb2025 22:12:10.983] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
