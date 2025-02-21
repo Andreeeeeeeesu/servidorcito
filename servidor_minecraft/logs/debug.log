@@ -8760,3 +8760,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [21Feb2025 19:50:50.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
 [21Feb2025 19:55:50.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [21Feb2025 19:55:50.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Feb2025 20:00:50.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Feb2025 20:00:50.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Feb2025 20:05:39.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Andrexo_16's game mode to Creative Mode
+[21Feb2025 20:05:50.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Feb2025 20:05:50.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
