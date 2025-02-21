@@ -1175,3 +1175,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [21Feb2025 19:15:44.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Andrexo_16's game mode to Survival Mode
 [21Feb2025 19:43:18.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 moved wrongly!
 [21Feb2025 20:05:39.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Andrexo_16's game mode to Creative Mode
+[21Feb2025 20:30:52.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Andrexo_16's game mode to Survival Mode
+[21Feb2025 20:36:54.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 lost connection: Disconnected
+[21Feb2025 20:36:54.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 left the game
