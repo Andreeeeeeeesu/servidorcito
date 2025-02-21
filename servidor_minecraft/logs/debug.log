@@ -8742,3 +8742,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [21Feb2025 19:15:44.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Andrexo_16's game mode to Survival Mode
 [21Feb2025 19:15:50.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [21Feb2025 19:15:50.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Feb2025 19:20:50.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Feb2025 19:20:50.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Feb2025 19:25:50.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Feb2025 19:25:50.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Feb2025 19:30:50.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Feb2025 19:30:50.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Feb2025 19:35:50.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Feb2025 19:35:50.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
