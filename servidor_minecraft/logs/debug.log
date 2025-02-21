@@ -9021,3 +9021,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [21Feb2025 21:42:26.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-547, y=9, z=-45} BlockPos{x=-547, y=8, z=-44}
 [21Feb2025 21:45:50.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [21Feb2025 21:45:50.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Feb2025 21:50:50.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Feb2025 21:50:50.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Feb2025 21:55:50.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Feb2025 21:55:50.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Feb2025 22:00:50.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Feb2025 22:00:50.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Feb2025 22:05:42.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 was processed by Crushing Wheels
+[21Feb2025 22:05:43.371] [Server thread/DEBUG] [twilightforest/]: Player Andrexo_16 (3bef83f2-f8e1-3838-a154-8c90f8cf9c10) respawned and received items held in storage
+[21Feb2025 22:05:50.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Feb2025 22:05:50.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
