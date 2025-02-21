@@ -1165,3 +1165,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [21Feb2025 18:46:29.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11833ms or 236 ticks behind
 [21Feb2025 19:04:37.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
 [21Feb2025 19:05:59.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Andrexo_16's game mode to Creative Mode
+[21Feb2025 19:11:03.490] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=707, y=10, z=273}
+[21Feb2025 19:11:04.752] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=752, y=-22, z=197}
+[21Feb2025 19:11:50.109] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1020, y=25, z=-89}
+[21Feb2025 19:11:50.110] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1020, y=25, z=-87}
+[21Feb2025 19:11:51.863] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=941, y=-46, z=-112}
+[21Feb2025 19:11:57.725] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=829, y=-31, z=-217}
+[21Feb2025 19:12:01.475] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=770, y=-4, z=-258}
+[21Feb2025 19:15:44.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Andrexo_16's game mode to Survival Mode
