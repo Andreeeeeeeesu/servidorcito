@@ -1184,3 +1184,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [21Feb2025 20:57:02.735] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Andrexo_16'
 [21Feb2025 20:57:02.736] [Server thread/INFO] [Jade/]: Syncing config to Andrexo_16 (3bef83f2-f8e1-3838-a154-8c90f8cf9c10)
 [21Feb2025 21:03:34.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 moved wrongly!
+[21Feb2025 21:35:33.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-546, y=62, z=-21} BlockPos{x=-497, y=47, z=-11}
+[21Feb2025 21:37:21.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-494, y=55, z=-32} BlockPos{x=-492, y=56, z=-32}
+[21Feb2025 21:38:26.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-478, y=58, z=-20} BlockPos{x=-478, y=60, z=-20}
+[21Feb2025 21:38:57.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-497, y=59, z=-28} BlockPos{x=-498, y=58, z=-25}
+[21Feb2025 21:41:01.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-496, y=13, z=-36} BlockPos{x=-497, y=14, z=-38}
+[21Feb2025 21:41:48.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-496, y=13, z=-36} BlockPos{x=-505, y=15, z=-32}
+[21Feb2025 21:41:48.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-496, y=13, z=-36} BlockPos{x=-505, y=15, z=-32}
+[21Feb2025 21:42:26.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-547, y=9, z=-45} BlockPos{x=-547, y=8, z=-44}
