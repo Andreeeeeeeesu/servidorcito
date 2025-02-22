@@ -11790,5 +11790,17 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2025-02-22 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-02-22 19:00:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

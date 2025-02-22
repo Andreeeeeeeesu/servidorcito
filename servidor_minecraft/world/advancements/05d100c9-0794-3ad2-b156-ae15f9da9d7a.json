@@ -10518,12 +10518,6 @@
     },
     "done": true
   },
-  "aether:zephyr_hammer": {
-    "criteria": {
-      "zephyr_hammer": "2025-02-22 18:51:09 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/misc/flower_to_white_dye": {
     "criteria": {
       "has_white_flower": "2025-02-22 17:46:48 +0000"
@@ -10545,6 +10539,42 @@
   "aether:recipes/combat/gravitite_boots_repairing": {
     "criteria": {
       "has_gravitite_boots": "2025-02-22 18:32:49 +0000"
+    },
+    "done": true
+  },
+  "aether:zephyr_hammer": {
+    "criteria": {
+      "zephyr_hammer": "2025-02-22 18:51:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2025-02-22 19:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-22 19:02:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-02-22 19:02:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-02-22 19:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-22 19:02:34 +0000"
     },
     "done": true
   },
