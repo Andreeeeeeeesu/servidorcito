@@ -612,10 +612,12 @@
       "minecraft:witch": "2024-12-21 16:57:15 +0000",
       "minecraft:wither_skeleton": "2024-12-28 03:33:14 +0000",
       "minecraft:husk": "2024-12-26 20:47:03 +0000",
+      "minecraft:ender_dragon": "2025-02-22 20:16:16 +0000",
       "minecraft:cave_spider": "2024-12-19 02:46:11 +0000",
       "minecraft:piglin": "2024-12-20 20:55:29 +0000",
       "minecraft:enderman": "2024-12-22 01:35:59 +0000",
       "minecraft:stray": "2024-12-28 03:05:02 +0000",
+      "minecraft:silverfish": "2025-02-22 20:01:26 +0000",
       "minecraft:vex": "2024-12-21 17:14:59 +0000",
       "minecraft:zombie": "2024-12-19 01:51:17 +0000",
       "minecraft:drowned": "2024-12-26 02:07:33 +0000",
@@ -11799,6 +11801,48 @@
   "create:recipes/misc/crafting/materials/copper_ingot": {
     "criteria": {
       "has_item": "2025-02-22 19:00:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:excessive_fly_swatter": {
+    "criteria": {
+      "excessive_fly_swatter_0": "2025-02-22 19:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-22 20:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-02-22 20:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-22 20:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-02-22 20:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-02-22 20:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-22 20:12:40 +0000"
     },
     "done": true
   },
