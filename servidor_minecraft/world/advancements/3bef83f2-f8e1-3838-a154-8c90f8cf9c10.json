@@ -11778,5 +11778,11 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-02-22 17:43:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
