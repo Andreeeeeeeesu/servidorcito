@@ -10489,7 +10489,8 @@
     "criteria": {
       "gravitite_chestplate": "2025-02-20 03:39:48 +0000",
       "gravitite_gloves": "2025-02-22 18:06:09 +0000",
-      "gravitite_leggings": "2025-02-20 03:17:00 +0000"
+      "gravitite_leggings": "2025-02-20 03:17:00 +0000",
+      "gravitite_boots": "2025-02-22 18:32:49 +0000"
     },
     "done": false
   },
@@ -10532,6 +10533,12 @@
   "aether:recipes/tools/gravitite_axe_repairing": {
     "criteria": {
       "has_gravitite_axe": "2025-02-22 18:06:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_boots_repairing": {
+    "criteria": {
+      "has_gravitite_boots": "2025-02-22 18:32:49 +0000"
     },
     "done": true
   },
